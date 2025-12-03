@@ -1,0 +1,652 @@
+{
+  "facebook_page_insights": [
+    {
+      "title": "page_total_actions",
+      "description": "The number of clicks on your Page's contact info and call-to-action button.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_post_engagements",
+      "description": "The number of times people have engaged with your posts through reactions, comments, shares and more.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_fan_adds_by_paid_non_paid_unique",
+      "description": "The number of Accounts Center accounts that liked your Page for the first time, broken down based on whether the Page like was attributed to paid or organic content. This metric is estimated.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_lifetime_engaged_followers_unique",
+      "description": "Someone who follows your Page and who has, in the past 14 days, watched one or more of your live or previously recorded videos for at least 1 minute and/or interacted with your video content at least once, via a comment, share, reaction or like.",
+      "periods": []
+    },
+    {
+      "title": "page_daily_follows",
+      "description": "The number of times your Facebook Page or profile was followed in the selected time period.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_daily_follows_unique",
+      "description": "The number of Accounts Center accounts that followed your Page in the selected time period. This metric is estimated.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_daily_unfollows_unique",
+      "description": "The number of Accounts Center accounts that unfollowed your Page in the selected time period. This metric is estimated.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_follows",
+      "description": "The number of followers of your Facebook Page or profile. This is calculated as the number of follows minus the number of unfollows over the lifetime of your Facebook Page or profile.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_impressions",
+      "description": "The number of times any content from your Page or about your Page entered a person's screen. This includes posts, stories, ads, as well other content or information on your Page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_impressions_unique",
+      "description": "The number of people who had any content from your Page or about your Page enter their screen. This includes posts, check-ins, ads, social information from people who interact with your Page and more. This metric is estimated.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_impressions_paid",
+      "description": "The number of times any post or story content from your Page or about your Page entered a person's screen through paid distribution such as an ad.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_impressions_paid_unique",
+      "description": "The number of Accounts Center accounts that saw your ads at least once. Reach is different from impressions, which may include multiple views of your ads by the same Accounts Center accounts. This metric is estimated.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_impressions_viral",
+      "description": "The number of times any content from your Page or about your Page entered a person's screen with social information attached. Social information displays when a person's friend interacted with your Page, post or story. This includes when someone's friend likes or follows your Page, engages with a post, shares a photo of your Page and checks into your Page. This metric is in development.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_impressions_viral_unique",
+      "description": "This metric counts reach from the organic or paid distribution of your Facebook Page and Page content when they were shown with social information attached. Social information is shown on Feed after someone interacts with your Page, post or story. Reach is only counted once if it occurs from both organic and paid distribution. This metric is estimated and in development.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_impressions_nonviral",
+      "description": "The number of times your Facebook Page and Page content was on screen, excluding when they were shown with social information attached. Social information is shown on Feed after someone interacts with your Page, post or story. This metric is in development.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_impressions_nonviral_unique",
+      "description": "This metric counts reach from the organic or paid distribution of your Facebook Page and Page content, excluding when they were shown with social information attached. Social information is shown on Feed after someone interacts with your Page, post or story. Reach is only counted once if it occurs from both organic and paid distribution. This metric is estimated and in development.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_media_view",
+      "description": "The number of times your content was played or displayed. Content includes videos, posts, stories and ads.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions",
+      "description": "The number of times your Page's posts entered a person's screen. Posts include statuses, photos, links, videos and more.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_unique",
+      "description": "The number of people who had any of your Page's posts enter their screen. Posts include statuses, photos, links, videos and more.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_paid",
+      "description": "The number of times your Facebook Page and Page content was on screen, attributed to your ads.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_paid_unique",
+      "description": "The number of Accounts Center accounts that saw any posts from your Page at least once, attributed to your ads.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_organic_unique",
+      "description": "The number of people who had any of your Page's posts enter their screen through unpaid distribution.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_served_impressions_organic_unique",
+      "description": "The number of people who were served your Page's posts in their Feed whether it entered their screen or not. Posts include statuses, photos, links, videos and more.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_viral",
+      "description": "The number of times your Page's posts entered a person's screen with social information attached. Social information displays when a person's friend interacted with you Page or post. This includes when someone's friend likes or follows your Page, engages with a post, shares a photo of your Page and checks into your Page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_viral_unique",
+      "description": "The number of people who had any of your Page's posts enter their screen with social information attached. As a form of organic distribution, social information displays when a person's friend interacted with you Page or post. This includes when someone's friend likes or follows your Page, engages with a post, shares a photo of your Page and checks into your Page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_nonviral",
+      "description": "The number of times your Page's posts entered a person's screen. This does not include content created about your Page with social information attached. Social information displays when a person's friend interacted with you Page or post. This includes when someone's friend likes or follows your Page, engages with a post, shares a photo of your Page and checks into your Page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_posts_impressions_nonviral_unique",
+      "description": "The number of people who had any posts by your Page enter their screen. This does not include content created about your Page with social information attached. As a form of organic distribution, social information displays when a person's friend interacted with you Page or post. This includes when someone's friend likes or follows your Page, engages with a post, shares a photo of your Page and checks into your Page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_actions_post_reactions_like_total",
+      "description": "Daily total post like reactions of a page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_actions_post_reactions_love_total",
+      "description": "Daily total post love reactions of a page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_actions_post_reactions_wow_total",
+      "description": "Daily total post wow reactions of a page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_actions_post_reactions_haha_total",
+      "description": "Daily total post haha reactions of a page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_actions_post_reactions_sorry_total",
+      "description": "Daily total post sorry reactions of a page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_actions_post_reactions_anger_total",
+      "description": "Daily total post anger reactions of a page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_actions_post_reactions_total",
+      "description": "Daily total post reactions of a page by type.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_fans",
+      "description": "The total number of people who have liked your Page.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_fans_locale",
+      "description": "Aggregated language data about the people who like your Page based on the default language setting selected when accessing Facebook.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_fans_city",
+      "description": "Aggregated Facebook location data, sorted by city, about the people who like your Page.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_fans_country",
+      "description": "The number of people, aggregated per country, that like your Page. Only the 45 countries with the most people that like your Page are included.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_fan_adds",
+      "description": "The number of new people who have liked your Page.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_fan_adds_unique",
+      "description": "The number of Accounts Center accounts that liked your Page for the first time. This metric is estimated.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_fan_removes",
+      "description": "Unlikes of your Page.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_fan_removes_unique",
+      "description": "Unlikes of your Page.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views",
+      "description": "The number of times your Page's videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views_by_uploaded_hosted",
+      "description": "Daily video views on a page-level broken down by all variants of page-uploaded and page-hosted variants.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views_paid",
+      "description": "The number of times your Page's promoted videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. For each impression of a video, we'll count video views separately and exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views_organic",
+      "description": "The number of times your Page's videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds, by organic reach. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views_by_paid_non_paid",
+      "description": "The number of times your Page's videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds, broken down by total, paid, and non-paid. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views_autoplayed",
+      "description": "The number of times your Page's videos automatically played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views_click_to_play",
+      "description": "The number of times your Page's videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds, after people clicked play. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_views_unique",
+      "description": "The number of people who viewed your Page's videos for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_repeat_views",
+      "description": "The number of times your Page's videos were replayed for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_complete_views_30s",
+      "description": "The number of times your Page's videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_complete_views_30s_paid",
+      "description": "The number of times your Page's promoted videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds. For each impression of a video, we'll count video views separately and exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_complete_views_30s_organic",
+      "description": "The number of times your Page's videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds, by organic reach. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_complete_views_30s_autoplayed",
+      "description": "The number of times your Page's automatically played videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_complete_views_30s_click_to_play",
+      "description": "The number of times your Page's videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds, after people clicked play. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_complete_views_30s_unique",
+      "description": "The number of people who viewed your Page's videos for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_complete_views_30s_repeat_views",
+      "description": "The number of times your Page's videos replayed for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds.",
+      "periods": ["day", "week", "days_28"]
+    },
+    {
+      "title": "page_video_view_time",
+      "description": "The total time, in milliseconds, people viewed your Page's video.",
+      "periods": ["day"]
+    },
+    {
+      "title": "page_views_total",
+      "description": "The number of times a Page's profile has been viewed by logged in and logged out people.",
+      "periods": ["day", "week", "days_28"]
+    }
+  ],
+  "facebook_page_posts_insights": [
+    {
+      "title": "post_clicks",
+      "description": "The number of times people clicked on anywhere in your posts without generating a story.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_clicks_by_type",
+      "description": "The number of times people clicked on anywhere in your posts without generating a story, by consumption type.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions",
+      "description": "The number of times your Page's post entered a person's screen. Posts include statuses, photos, links, videos and more.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_unique",
+      "description": "The number of people who had your Page's post enter their screen. Posts include statuses, photos, links, videos and more. This metric is estimated.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_paid",
+      "description": "The number of times your Page content was on screen, attributed to your ads.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_paid_unique",
+      "description": "The number of Accounts Center accounts that saw your post at least once, attributed to your ads. This metric is estimated.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_fan",
+      "description": "The number of times your Page content was on screen for accounts that followed or liked your Page.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_fan_unique",
+      "description": "The number of Accounts Center accounts that followed or liked your Page. This metric is estimated.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_organic",
+      "description": "The number of times your post was on screen through organic distribution.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_organic_unique",
+      "description": "This metric counts reach from the organic distribution of your Facebook content, including posts, stories and ads. Reach from shares is counted towards organic content only. This includes cases where your content is shared as a story or repost. This metric is estimated.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_viral",
+      "description": "The number of times your Page content was on screen with social information attached. Social information is shown on Feed after someone interacts with your Page, post or story. This metric is in development.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_viral_unique",
+      "description": "This metric counts reach when your Facebook content was shared as a repost or story. Reach from shares only counts towards organic distribution. This metric is estimated and in development.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_nonviral",
+      "description": "The number of times your Page content was on screen, excluding when your content was shown with social information attached. Social information is shown on Feed after someone interacts with your Page, post or story. This metric is in development.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_impressions_nonviral_unique",
+      "description": "This metric counts reach from the organic or paid distribution of your Page content, excluding when your content was shown with social information attached. Social information is shown on Feed after someone interacts with your Page, post or story. Reach is only counted once if it occurs from both organic and paid distribution. This metric is estimated and in development.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_media_view",
+      "description": "The number of times your content was played or displayed. Content includes videos, posts, stories and ads.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_reactions_like_total",
+      "description": "Total like reactions of a post.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_reactions_love_total",
+      "description": "Total love reactions of a post.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_reactions_wow_total",
+      "description": "Total wow reactions of a post.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_reactions_haha_total",
+      "description": "Total haha reactions of a post.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_reactions_sorry_total",
+      "description": "Total sad reactions of a post.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_reactions_anger_total",
+      "description": "Total anger reactions of a post.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_reactions_by_type_total",
+      "description": "Total post reactions by type.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_avg_time_watched",
+      "description": "The average time, in milliseconds, people viewed your videos. Only available for videos created after August 25th 2016. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_organic",
+      "description": "The number of times your videos played from the beginning to 97%, or more, of its length, by organic reach. During a single instance of a video playing, we'll exclude any time spent replaying the video. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_organic_unique",
+      "description": "The number of people who viewed your videos from the beginning to 97%, or more, of its length, by organic reach. During a single instance of a video playing, we'll exclude any time spent replaying the video. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_paid",
+      "description": "The number of times your promoted videos played from the beginning to 97%, or more, of its length. For each impression of a video, we'll count video views separately and exclude any time spent replaying the video. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_paid_unique",
+      "description": "The number of people who viewed your promoted videos from the beginning to 97%, or more, of its length. For each impression of a video, we'll count video views separately and exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_retention_graph",
+      "description": "The number of times your videos played at each interval as a percentage of all views. Videos are divided into 40 equal intervals. This metric does not count impressions while the video was live. Retention graphs may show more impressions later in the video than at the beginning. People might start the video in the middle, skip ahead, save, and rewatch it from that point, or other similar behaviors.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_retention_graph_clicked_to_play",
+      "description": "The number of times your videos played at each interval as a percentage of all views, after people clicked play. Videos are divided into 40 equal intervals. This metric does not count impressions while the video was live. Retention graphs may show more impressions later in the video than at the beginning. People might start the video in the middle, skip ahead, save, and rewatch it from that point, or other similar behaviors.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_retention_graph_autoplayed",
+      "description": "The number of times your videos automatically played at each interval as a percentage of all automatic views. Videos are divided into 40 equal intervals.This metric does not count impressions while the video was live. Retention graphs may show more impressions later in the video than at the beginning. People might start the video in the middle, skip ahead, save, and rewatch it from that point, or other similar behaviors.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_views_organic",
+      "description": "The number of times your videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds, by organic reach. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_views_organic_unique",
+      "description": "The number of people who viewed your videos for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds, by organic reach. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_views_paid",
+      "description": "The number of times your promoted videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. For each impression of a video, we'll count video views separately and exclude any time spent replaying the video.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_views_paid_unique",
+      "description": "The number of people who viewed your promoted videos for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. For each impression of a video, we'll count video views separately and exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_length",
+      "description": "The length, in milliseconds, of a video post.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_views",
+      "description": "The number of times your videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video. This includes live views.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_views_unique",
+      "description": "The number of people who viewed your videos for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["day", "lifetime"]
+    },
+    {
+      "title": "post_video_views_autoplayed",
+      "description": "The number of times your videos automatically played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_views_clicked_to_play",
+      "description": "The number of times your videos played for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds, after people clicked play. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_views_15s",
+      "description": "The number of times your videos played for at least 15 seconds, or for nearly their total length if they're shorter than 15 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_views_60s_excludes_shorter",
+      "description": "The number of times your videos played for at least 60 seconds. This metric is counted only for videos that are 60 seconds or longer. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_views_sound_on",
+      "description": "The number of times your videos played with sound on for at least 3 seconds, or for nearly their total length if they're shorter than 3 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_view_time",
+      "description": "The total time, in milliseconds, your videos played, including videos played for less than 3 seconds and replays. Returns 0 for reshared videos.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_view_time_organic",
+      "description": "The total time, in milliseconds, your videos played by organic reach. Returns 0 for reshared videos.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_view_time_by_age_bucket_and_gender",
+      "description": "The total time, in milliseconds, your videos played for your Top Audiences, age and gender.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_view_time_by_region_id",
+      "description": "The total time, in milliseconds, your videos played for your Top 45 Locations, Region - Country.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_views_by_distribution_type",
+      "description": "The number of times your videos played by distribution type; page_owned and shared.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_view_time_by_distribution_type",
+      "description": "The total time, in milliseconds, your videos played by distribution type; page_owned and shared.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_view_time_by_country_id",
+      "description": "The total number of minutes your videos played for your Top 45 Locations; Country.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_social_actions_count_unique",
+      "description": "The unique count of the social actions (reactions, comments, shares) on a video post.",
+      "periods": ["lifetime", "day"]
+    },
+    {
+      "title": "post_video_complete_views_30s_autoplayed",
+      "description": "The number of times your videos automatically played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_30s_clicked_to_play",
+      "description": "The number of times your videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds, after people clicked play. During a single instance of a video playing, we'll exclude any time spent replaying the video. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_30s_organic",
+      "description": "The number of times your videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds, by organic reach. During a single instance of a video playing, we'll exclude any time spent replaying the video. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_30s_paid",
+      "description": "The number of times your promoted videos played for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds. For each impression of a video, we'll count video views separately and exclude any time spent replaying the video. Returns 0 for reshared videos.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_video_complete_views_30s_unique",
+      "description": "The number of people who viewed your videos for at least 30 seconds, or for nearly their total length if they're shorter than 30 seconds. During a single instance of a video playing, we'll exclude any time spent replaying the video.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_activity_by_action_type",
+      "description": "The number of stories created about your Page post, by action type.",
+      "periods": ["lifetime"]
+    },
+    {
+      "title": "post_activity_by_action_type_unique",
+      "description": "The number of people who created a story about your Page post, by action type.",
+      "periods": ["lifetime"]
+    }
+  ],
+  "facebook_post_metadata": [
+    { "title": "id", "description": "Post ID" },
+    { "title": "actions", "description": "Action links" },
+    { "title": "admin_creator", "description": "Admin who created the Page post" },
+    { "title": "application", "description": "App that published the post" },
+    { "title": "backdated_time", "description": "Backdated publish time (if applicable)" },
+    { "title": "call_to_action", "description": "Call to action type and value" },
+    { "title": "can_reply_privately", "description": "Whether the viewer can send a private reply" },
+    { "title": "child_attachments", "description": "Sub-shares of a multi-link share post" },
+    { "title": "coordinates", "description": "Location or check-in related struct" },
+    { "title": "created_time", "description": "Time post was published (UNIX timestamp)" },
+    { "title": "event", "description": "Associated event (if applicable)" },
+    { "title": "expanded_height", "description": "Expanded height for attachments" },
+    { "title": "expanded_width", "description": "Expanded width for attachments" },
+    { "title": "feed_targeting", "description": "Feed targeting rules" },
+    { "title": "from", "description": "ID of the author (user/page/group/event)" },
+    { "title": "full_picture", "description": "Link to full-sized image (resized to ≤720px)" },
+    { "title": "height", "description": "Attachment height" },
+    { "title": "icon", "description": "Link to an icon representing post type" },
+    { "title": "instagram_eligibility", "description": "Whether it can be promoted on Instagram" },
+    { "title": "is_eligible_for_promotion", "description": "Whether post is eligible for promotion" },
+    { "title": "promotion_status", "description": "Promotion status" },
+    { "title": "is_expired", "description": "Whether post’s expiration has passed" },
+    { "title": "is_hidden", "description": "Whether post is hidden" },
+    { "title": "is_inline_created", "description": "Whether created inline via ads" },
+    { "title": "is_instagram_eligible", "description": "Whether post can be promoted on Instagram" },
+    { "title": "is_popular", "description": "Whether post is considered popular" },
+    { "title": "is_published", "description": "Whether post is published (vs scheduled)" },
+    { "title": "is_spherical", "description": "Whether it’s a 360° video post" },
+    { "title": "message", "description": "Main text of the post" },
+    { "title": "message_tags", "description": "Tagged profiles in the message" },
+    { "title": "multi_share_end_card", "description": "Whether end card displays for multi-link posts" },
+    { "title": "multi_share_optimized", "description": "Whether link order auto-optimized for ads" },
+    { "title": "parent_id", "description": "ID of parent post (if reshare/mention)" },
+    { "title": "permalink_url", "description": "Permanent URL to the post" },
+    { "title": "place", "description": "Associated place (if any)" },
+    { "title": "privacy", "description": "Privacy settings" },
+    { "title": "promotable_id", "description": "ID used for ad promotion" },
+    { "title": "properties", "description": "List of video properties (e.g., length)" },
+    { "title": "scheduled_publish_time", "description": "Scheduled publish UNIX timestamp" },
+    { "title": "shares", "description": "Count of times post has been shared" },
+    { "title": "status_type", "description": "Description of the type of status" },
+    { "title": "story", "description": "Text of auto-generated stories (e.g. “became friends”)" },
+    { "title": "story_tags", "description": "Tags in the story/description" },
+    { "title": "subscribed", "description": "Whether user is subscribed to the post" },
+    { "title": "target", "description": "Profile post was made on (if not author)" },
+    { "title": "targeting", "description": "Target audience restrictions" },
+    { "title": "timeline_visibility", "description": "Visibility information for timeline" },
+    { "title": "updated_time", "description": "Last update time (not counting comments)" },
+    { "title": "via", "description": "Original sharer (user or Page)" },
+    { "title": "video_buying_eligibility", "description": "Eligibility for video ad promotion" },
+    { "title": "width", "description": "Attachment width" },
+    { "title": "attachments", "description": "Associated attachments (images, videos, etc.)" },
+    { "title": "comments", "description": "Comments on this post" },
+    { "title": "dynamic_posts", "description": "Dynamic ad creatives" },
+    { "title": "reactions", "description": "Profiles who reacted" },
+    { "title": "sharedposts", "description": "Shared instances of this post" },
+    { "title": "sponsor_tags", "description": "Sponsor pages tagged in post" },
+    { "title": "to", "description": "Profiles mentioned or targeted" },
+    { "title": "likes", "description": "Likes on post" }
+  ]
+}
